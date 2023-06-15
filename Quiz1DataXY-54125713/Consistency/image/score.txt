@@ -1,0 +1,3 @@
+Uniqueness	91.77
+Redundancy	0
+Mean	45.885

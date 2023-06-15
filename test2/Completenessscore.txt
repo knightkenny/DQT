@@ -1,0 +1,1 @@
+{'InvoiceId': 0, 'CustomerId': 0, 'InvoiceDate': 0, 'BillingAddress': 0, 'BillingCountry': 0, 'BillingPostalCode': 22, 'Total': 0, 'Mean': 3.142857142857143}

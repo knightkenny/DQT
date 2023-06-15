@@ -1,0 +1,1 @@
+{'ReferenceSource': 50.0, 'Mean': 50.0}

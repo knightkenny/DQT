@@ -1,0 +1,1 @@
+{'Validity': 100, 'Frequency': 100, 'Mean': 100.0}

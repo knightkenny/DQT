@@ -1,0 +1,1 @@
+{'M InvoiceId': 0, 'M CustomerId': 0, 'Mean': 19.75, 'InvoiceId': 0, 'CustomerId': 0, 'InvoiceDate': 0, 'BillingAddress': 0, 'BillingCity': 0, 'BillingState': 207, 'BillingCountry': 0, 'BillingPostalCode': 30, 'Total': 0}

@@ -1,0 +1,2 @@
+uniqueness	91.77
+Redundancy	0

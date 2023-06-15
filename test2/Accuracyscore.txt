@@ -1,0 +1,1 @@
+{'M InvoiceId': 100.0, 'Mean': 100.0, 'ReferenceSource': 100.0}
